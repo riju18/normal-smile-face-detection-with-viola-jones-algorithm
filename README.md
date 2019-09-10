@@ -23,4 +23,4 @@
     smile face detection (static image):
     
     
-    ![mySmileImg](https://user-images.githubusercontent.com/18087611/64640172-3fc3f580-d42b-11e9-9e2c-3f5d4854c19a.png)
+     ![mySmileImg](https://user-images.githubusercontent.com/18087611/64640172-3fc3f580-d42b-11e9-9e2c-3f5d4854c19a.png)
