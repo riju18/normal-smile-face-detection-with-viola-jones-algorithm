@@ -18,7 +18,7 @@
  
     https://www.superdatascience.com/
     
- # screenshots:
+ # sample:
    
     smile face detection (static image):
     
